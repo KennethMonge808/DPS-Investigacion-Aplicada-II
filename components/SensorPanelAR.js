@@ -24,7 +24,7 @@ const SensorPanelAR = () => {
   return (
     <ViroNode position={[0, 0, -1]}>
       <ViroText
-        text={`🌡 Temp: ${sensorData.temperature}°C\n💧 Hum: ${sensorData.humidity}%\n📍 ${sensorData.location}\nEstado: ${sensorData.status}`}
+        text={` Temp: ${sensorData.temperature}°C\n Hum: ${sensorData.humidity}%\n ${sensorData.location}\nEstado: ${sensorData.status}`}
         scale={[0.5, 0.5, 0.5]}
         width={2}
         height={2}
