@@ -3,6 +3,9 @@ Andres Eduardo Navidad Flores NF220677
 Kenneth Gabriel Monge Aguilar MA230693
 Derek Marcelo Monge Aguilar MA230691
 
+Link de la presentacion: 
+https://www.canva.com/design/DAGk_k1Q41U/nGuPVRwvFXe7-Nnu-mpV0A/edit
+
 *-+*-+*-+Instalacion y uso*-*-*+*-*-
 
 1. Clona el repositorio
