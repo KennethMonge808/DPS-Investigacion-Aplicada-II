@@ -11,7 +11,9 @@ https://www.canva.com/design/DAGk_k1Q41U/nGuPVRwvFXe7-Nnu-mpV0A/edit
 1. Clona el repositorio
 https://github.com/KennethMonge808/Dps-Investigacion-Aplicada-II/
 
-2. Usa el JDK 11 de Java
+2. Usa el JDK 17 de Java
 
-3. Al abrir el proyecto usar "npm install"
+3. Cambiar la direccion de local.properties a la de nuestra PC
+
+4. Al abrir el proyecto usar "npm install"
 
